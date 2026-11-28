@@ -267,6 +267,7 @@
 	Dark Mode	Dunkler Modus
 	Dark\nMode	Dunkler\nModus
 	Dash	Strichart
+dash style	Dash	Strich
 	Dash Dot	Strich-Punkt
 	Dashes	Striche
 	Date & Time	Datum & Uhrzeit
@@ -408,6 +409,7 @@
 	From\nCurrent Slide	Ab aktueller\nFolie
 	Full Page Slides	Ganzseitige Folien
 	Funnel	Trichter
+	Glow	Leuchten
 	Go to	Gehe zu
 	Go to slide {n}	Gehe zu Folie {n}
 	Gradient Range - Accent 1	Verlaufsbereich – Akzent 1
@@ -824,6 +826,7 @@
 	Return	Zurückkehren
 	Return to the audience window to resume the connection.	Kehren Sie zum Publikumsfenster zurück, um die Verbindung fortzusetzen.
 	Reuse Slides	Folien wiederverwenden
+	Reuse Slides (Keep Source Formatting)…	Folien wiederverwenden (Ursprüngliche Formatierung beibehalten)…
 	Reuse Slides needs the desktop app	Folien wiederverwenden erfordert die Desktop-App
 	Reuse Slides…	Folien wiederverwenden…
 	Revisions	Änderungen
@@ -895,6 +898,7 @@
 	Shape Outline	Formkontur
 	Shape\nStyles	Form-\nformate
 	Show Media Controls	Mediensteuerelemente anzeigen
+	Show Slide	Folie einblenden
 	Show smart guides	Intelligente Hilfslinien anzeigen
 	Show type	Art der Präsentation
 	Show without animation	Präsentation ohne Animation
@@ -1101,6 +1105,7 @@
 	{label} value	Wert für {label}
 	{name}  (dictionary)	{name}  (Wörterbuch)
 	{name} options	Optionen für {name}
+	{n} pt glow	{n} pt Leuchten
 	{path} — this file can't be found	{path} – diese Datei wurde nicht gefunden
 	“{font}” isn't used explicitly.	„{font}“ wird nicht ausdrücklich verwendet.
 	“{name}” is not available yet.	„{name}“ ist noch nicht verfügbar.
